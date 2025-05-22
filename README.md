@@ -6,3 +6,4 @@ git add .
 git commit -m "Comentario que saldrá"
 ## 3. Guardar cambios
 git push
+## 4. Actualizar repositorio clonado
